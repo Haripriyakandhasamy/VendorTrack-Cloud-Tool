@@ -32,5 +32,5 @@ Procurement teams can use this dashboard to:
 
 ---
 
-### 📈 Developed by: [Your Name]
+### 📈 Developed by: [HARIPRIYA K]
 
